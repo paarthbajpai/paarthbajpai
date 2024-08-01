@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paarth Bajpai</h1>
-<h3 align="center">A passionate final-year Computer Science Engineering student with a strong interest in machine learning and web development. I am passionate about creating innovative solutions that blend both fields, aiming to develop applications that are both functional and visually appealing.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paarthbajpai" alt="paarthbajpai" /></a> </p>
+<h3 align="center">A passionate final-year Computer Science Engineering student with a strong interest in machine learning and web development.</h3>
 
 - 📫 How to reach me **paarthbajpai16@gmail.com**
 
